@@ -1,5 +1,5 @@
 {
-    "name": "sngrl/php-firebase-cloud-messaging",
+    "name": "K12Tech/php-firebase-cloud-messaging",
     "description": "PHP API for Firebase Cloud Messaging from Google",
     "license": "MIT",
     "keywords": ["PHP","FCM","Google","Firebase","Cloud","Notifications","Android","iOS","Chrome"],
@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "sngrl\\PhpFirebaseCloudMessaging\\": "src/"
+            "K12Tech\\PhpFirebaseCloudMessaging\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "sngrl\\PhpFirebaseCloudMessaging\\Tests\\": "tests/"
+            "K12Tech\\PhpFirebaseCloudMessaging\\Tests\\": "tests/"
         }
     }
 }
